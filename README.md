@@ -30,16 +30,14 @@ CountriesWiki is a web application that provides information about various count
 ```bash
 git clone https://github.com/your-username/CountriesWiki.git
 ```
-Credits
+## Credits
+  -Data Source: restcountries.com
+  -Map Library: Leaflet.js
+  -CSS Framework: Bootstrap
 
-    Data Source: restcountries.com
-    Map Library: Leaflet.js
-    CSS Framework: Bootstrap
-
-Contributors
-
-    Sokaneil Sieng
-    sokaneilsieng0505@gmail.com
+## Contributors
+  -Sokaneil Sieng
+  -sokaneilsieng0505@gmail.com
 
 Note
 
