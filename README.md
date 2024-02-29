@@ -22,6 +22,7 @@ CountriesWiki is a web application that provides information about various count
 - JavaScript
 - Leaflet.js (for maps)
 - Bootstrap (for styling)
+- XAMPP: Web development environment with Apache, MySQL, PHP, and Perl. (Spefically only Apache Server Configuration for this project)
 
 ## How to Run
 
