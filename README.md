@@ -1,7 +1,9 @@
 # CountriesWiki
 
+![main-page](https://github.com/Sokaneil/CountriesWiki-/assets/122446013/674e6a2c-cd6b-453a-a606-477dc74cd3a3)
+
+
 CountriesWiki is a web application that provides information about various countries. It consists of two main pages - the main page that displays a list of countries and a details page that provides in-depth information about a selected country.
-(Note that this is not a perfect project, )
 
 ## Features
 
